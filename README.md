@@ -1,0 +1,1 @@
+# vt-smash-thumbnail-creator
